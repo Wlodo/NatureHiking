@@ -1219,8 +1219,23 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":321,
-         "source":"Office_walls_floors_32x32.tsx"
+         "image":"Office_walls_floors_32x32.png",
+         "imageheight":384,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Office_walls_floors_32x32",
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
+         "spacing":0,
+         "tilecount":192,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
