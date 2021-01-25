@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/document\/d\/e\/2PACX-1vR5YItb8mVxWERsxtGokquRcF9lh-g__tk8D6XHQOEOsfA7zS9MD-ncaeFKvHKTrnhLVwmD_ouEc_3P\/pub?embedded=true"
+                 "value":"https:\/\/docs.google.com\/document\/d\/e\/2PACX-1vR5YItb8mVxWERsxtGokquRcF9lh-g__tk8D6XHQOEOsfA7zS9MD-ncaeFKvHKTrnhLVwmD_ouEc_3P\/pub?https:\/\/docs.google.com\/document\/d\/e\/2PACX-1vR5YItb8mVxWERsxtGokquRcF9lh-g__tk8D6XHQOEOsfA7zS9MD-ncaeFKvHKTrnhLVwmD_ouEc_3P\/pub"
                 }],
          "type":"tilelayer",
          "visible":true,
